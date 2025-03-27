@@ -8,9 +8,9 @@ def main(page: ft.Page):
             page.update()
 
     images = {
-        "May your dreams be bigger than your fears": "/Users/coccoo/Desktop/gringo.jpg",
-        "Que tus sueños sean más grandes que tus miedos": "/Users/coccoo/Desktop/nick.jpg",
-        "Che i tuoi sogni siano più grandi delle tue paure": "/Users/coccoo/Desktop/italiano.jpg"
+        "May your dreams be bigger than your fears": "gringo.jpg",
+        "Que tus sueños sean más grandes que tus miedos": "nick.jpg",
+        "Che i tuoi sogni siano più grandi delle tue paure": "italiano.jpg"
     }
 
     t = ft.Text()
