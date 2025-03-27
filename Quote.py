@@ -30,4 +30,4 @@ def main(page: ft.Page):
         cg, b, t, img
     )
 
-ft.app(main)
+ft.app(target=main, assets_dir="assets")
